@@ -76,9 +76,9 @@ Heart_Disease_Detection/
 │   └── cleaned_data.csv
 ├── notebooks/
 │   ├── data_visualization.py
-│   └── figures/  (8 plots)
 ├── rule_based_system/
 │   └── expert_system.py
+│   └──rules.py
 ├── ml_model/
 │   ├── train_model.py
 │   ├── decision_tree_model.joblib
