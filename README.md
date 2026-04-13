@@ -53,18 +53,18 @@ python rule_based_system/expert_system.py
 
 | # | Condition | Risk |
 |---|-----------|------|
-| 1 | Exercise-induced angina (exang=1) | 🔴 HIGH |
-| 2 | ST depression > 0.4 | 🔴 HIGH |
-| 3 | Major vessels ≥ 2 | 🔴 HIGH |
-| 4 | Reversible thalassemia (thal=3) | 🔴 HIGH |
-| 5 | Asymptomatic chest pain in male | 🔴 HIGH |
-| 6 | Max HR < 0.35 (very low) | 🔴 HIGH |
-| 7 | Downsloping ST (slope=0) | 🟡 MODERATE |
-| 8 | 1 vessel coloured (ca=1) | 🟡 MODERATE |
-| 9 | Moderate ST depression in male | 🟡 MODERATE |
-| 10 | Low HR + flat slope | 🟡 MODERATE |
-| 11 | Fixed thalassemia (thal=2) | 🟡 MODERATE |
-| 12 | All clear | 🟢 LOW |
+| 1 | Exercise-induced angina (exang=1) |  HIGH |
+| 2 | ST depression > 0.4 |  HIGH |
+| 3 | Major vessels ≥ 2 |  HIGH |
+| 4 | Reversible thalassemia (thal=3) |  HIGH |
+| 5 | Asymptomatic chest pain in male |  HIGH |
+| 6 | Max HR < 0.35 (very low) |  HIGH |
+| 7 | Downsloping ST (slope=0) |  MODERATE |
+| 8 | 1 vessel coloured (ca=1) |  MODERATE |
+| 9 | Moderate ST depression in male |  MODERATE |
+| 10 | Low HR + flat slope |  MODERATE |
+| 11 | Fixed thalassemia (thal=2) |  MODERATE |
+| 12 | All clear |  LOW |
 
 ---
 
