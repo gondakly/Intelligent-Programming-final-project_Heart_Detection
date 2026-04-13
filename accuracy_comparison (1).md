@@ -42,7 +42,7 @@
 
 1 _ How It Works:
 
-The Decision Tree model was used to classify patients based on their health indicators. The dataset was split into training and testing sets (80/20). The model was trained using Scikit-learn and optimized using GridSearchCV. Evaluation metrics such as accuracy, precision, recall, and F1-score were used to measure performance. Feature importance analysis showed that variables such as chest pain (cp) and oldpeak had a significant impact on predictions.
+The Decision Tree model was used to classify patients based on their health indicators. The dataset was split into training and testing sets (80/20). The model was trained using Scikit-learn. Evaluation metrics such as accuracy, precision, recall, and F1-score were used to measure performance. Feature importance analysis showed that variables such as chest pain (cp) and oldpeak had a significant impact on predictions.
 
 
 ## Explainability Comparison
