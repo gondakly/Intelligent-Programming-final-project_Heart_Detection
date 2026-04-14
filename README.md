@@ -68,26 +68,3 @@ python rule_based_system/expert_system.py
 
 ---
 
-##  Project Structure
-
-```
-Heart_Disease_Detection/
-├── data/
-│   └── cleaned_data.csv
-├── notebooks/
-│   ├── data_visualization.py
-├── rule_based_system/
-│   └── expert_system.py
-│   └──rules.py
-├── ml_model/
-│   ├── train_model.py
-│   ├── decision_tree_model.joblib
-│   └── metrics.json
-├── reports/
-│   ├── generate_comparison.py
-│   └── accuracy_comparison.md
-├── ui/
-│   └── app.py
-├── requirements.txt
-└── README.md
-```
