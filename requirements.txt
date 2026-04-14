@@ -1,0 +1,14 @@
+streamlit:Web interface and dashboard
+
+pandas: Data loading and manipulation
+numpy: Numerical operations
+
+seaborn :Statistical data visualization (heatmaps, distributions)
+matplotlib :Plotting engine for charts
+
+# Machine Learning ,Preprocessing & Evaluation
+scikit-learn : Decision Tree Classifier, MinMaxScaler, One-Hot Encoding, metrics
+
+experta:Rule-based inference engine (KnowledgeEngine)
+
+joblib:Saving and loading the trained Decision Tree model
